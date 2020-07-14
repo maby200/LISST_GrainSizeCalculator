@@ -1,5 +1,5 @@
 # LISST_GrainSizeCalculator
-Script en Python para propósitos de mediciones.
+Script en Python con fines de mediciones de tamaño de sedimento.
 
 Es recomendable que los nombres de cada punto de la sección a procesar terminen en "_1" O "_2".
 
